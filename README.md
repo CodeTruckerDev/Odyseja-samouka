@@ -2,6 +2,8 @@
 
 Z góry uprzedzam, to będzie raczej długa opowieść, bez skrótów typu TL;DR
 
+## PROLOG
+
 Urodziłem się w roku 1980, a w moich latach młodzieńczych imponowała mi postać pewnego znanego ówcześnie człowieka. Był nim Kevin Mitnick. 
 I to, co postrzegałem za niesamowite w tejże postaci był fakt, że wszystkiego się nauczył i co opanował, dokonał tego samodzielnie. 
 W ten właśnie sposób narodził się pomysł, że skoro on nauczył się czegoś sam, to i ja dam radę samodzielnie nauczyć się pisania programów komputerowych.
@@ -26,15 +28,20 @@ i jak wiele dzieciaków z tamtego czasu, miał poważny problem z ilościa czasu
 indziej nie byłbym w stanie odblokować komputera. Zacząłem więc poszukiwania aplikacji do nadzoru ile dziecko może spędzić przy komputerze. A wtedy w roku 2016 nie było jeszcze zbyt wielu 
 możliwości. Wszelkie polskojęzyczne aplikacje nie spełniały mojego założenia, a pozostałe które znalazłem były płatne w dolarach, co dla mnie wtedy było problemowe.
 
+Zrobiłem więc ranking języków programowania, wybrałem Pythona i rozpocząłem naukę z tutoriali dostępnych na platformie YouTube. Jednak po pewnym niedługim czasie zauważyłem, że tutoriale te 
+oczywiście pokazują użycie komend ale nie uczą praktyki. Opracowałem więc własny sposób nauki. Zarejestrowałem się na oficjalnym forum Pythonowym i korzystając z pytań, które zgłaszali studenci
+zgłębiałem wiedzę dotyczącą tego języka. Googlałem tematy, przeprowadzałem testy na swoim komputerze, po czym dawałem odpowiedź. Nigdy nie dawałem gotowca, dawałem podpowiedzi naprowadzające na
+odpowiedź wraz z odnośnikami do źródeł. Tak więc pytający byli zadowoleni, i ja także.
+
 I w tym właśnie momencie uznałem, że napiszę taką aplikację sam. To jest początek prawdziwej opowieści.
 
-Zrobiłem więc ranking języków programowania, wybrałem Pythona i rozpocząłem naukę z tutoriali dostępnych na platformie YouTube. Jednak po pewnym niedługim czasie zauważyłem, że tutoriale te 
-oczywiście pokazują użycie komend ale nie uczą praktyki. Opracowałem więc własny sposób nauki. Zarejestrowałem się na forum Pythonowym i korzystając z pytań, które zgłaszali studenci
-zgłębiałem wiedzę dotyczącą tego języka. Googlałem tematy, przeprowadzałem testy na swoim komputerze, po czym dawałem odpowiedź. Nigdy nie dawałem gotowca, dawałem podpowiedzi wraz z 
-odnośnikami do źródeł. Tak więc pytający byli zadowoleni, i ja także.
+## ROZDZIAŁ 1 - GUARDIAN
 
 Wracając do problemu z synem, zaprojektowałem aplikację oraz sposób jej działania, po czym napisałem kod - oczywiście nie od razu zadziałało jak chciałem - jednak koniec konców powstała aplikacja
 dzięki której stałem się wrogiem publicznym mojego syna. Aplikacja była stosunkowo prosta - na starcie komputera do pliku tekstowego była dopisywana aktualna data, po czym trzy ostatnie wpisy
 były porównywane. Jeśli zapisy były różne, młodzieniec mógł korzystać z komputera przez godzinę, po upływie której komputer samoczynnie się wyłączał. Jeżeli natomiast zapisy dat były takie same
 komputer wyłączał się po jednej minucie. W ten sposób syn mógł grać dwa razy po jednej godzinie, a pozostała minuta została stworzona aby całkowicie nie zablokować komputera - żeby w 
-razie potrzeby móc aplikację zatrzymać. Oto przed Wami - Guardian 1.0.
+razie potrzeby móc aplikację zatrzymać. Obecny kod został przerobiony do pliku exe i trafił do autostartu Windowsa. Jako że skrypt był napisany jako narzędzie konsolowe przy starcie systemu na 
+ułamek sekundy pojawiało się okienko CMD, co niestety rodziło zagrożenie. Wystarczyłoby wiedzieć gdzie dokładnie na monitorze wyświetla się X zamykający okno CMD i cała aplikacja
+przestałaby działać zanim by jeszcze zdążyła. Tu na pomoc przyszło oczywiście Google a rozwiązaniem okazał się skrypt VBS ukrywający okno aplikacji
+Oto przed Wami - Guardian 1.0.
