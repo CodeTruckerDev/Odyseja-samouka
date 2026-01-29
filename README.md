@@ -155,4 +155,4 @@ Jednak nastąpiło coś, czego się nie spodziewałem. W wyniku jednej z takich 
 Pan Maciej był dle mnie swoistym autorytetem i ekspertem uwierzyłem w jego słowa podkręcane zresztą przez mój brak wiary w siebie. I ponownie uznałem, że programowanie, pomimo że sprawia mi niesamowitą frajdę - że nie 
 powinienm się nim zajmować. Że są od tego wykształceni specjaliści
 
-## ROZDZAIŁ 3 - POWRÓT (i nowe nadzieje)
+## ROZDZIAŁ 3 - POWRÓT (i nowe nadzieje)
