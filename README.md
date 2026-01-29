@@ -69,7 +69,9 @@ Guardian 2.0 [link]
 
 Równolegle z wydarzeniami kiedy tworzyłem Guardiana zacząłem się uczyć kolejnych rzeczy. Każdy projekt który zaczynałem skupiał się na pewnych cechach aplikacji. Co istotne, każdy rozpoczęty 
 projekt postanowiłem doprowadziać do końca za wszelką cenę, żeby ta nauka była wymierna. Testowałem wszelkie tematy, w których widziałem jakiekolwiek zastosowanie. Co oczywiście jako samouka
-poprowadziło drogą pomijającą pewne zagadnienia. Ale ciągle odczuwając że się uczę miałem myśli, że kiedyś gdy będę potrzebował to nauczę się wszystkiego. Ale nawet zwykłe zagadnienia 
+poprowadziło drogą pomijającą pewne zagadnienia. Ale ciągle odczuwając że się uczę miałem myśli, że kiedyś gdy będę potrzebował to samodzielnie nauczę się wszystkiego. 
+
+Ale nawet zwykłe zagadnienia 
 potrafiłem ubrać w ciekawe i zabawne skrypty. Przykładem jest poniższy kod.
 
 Three [link]
