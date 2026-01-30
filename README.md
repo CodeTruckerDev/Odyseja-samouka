@@ -157,8 +157,10 @@ powinienm się nim zajmować. Że od tego są wykształceni specjaliści.
 
 ## ROZDZIAŁ 3 - POWRÓT (i nowe nadzieje)
 
-Minęło 8 lat odkąd napisałem ostatnie linijki kodu. 
-Ja przebranżowiłem się i zostałem kierowcą zawodowym. Jeżdżę ciężarówką po całym kraju wożąc żywność. Tak więc praca jest i będzie. I jeśli tylko nie zrobię czegoś
-głupiego pracę mam zapewnioną na długie lata
+Minęło 8 lat odkąd napisałem ostatnie linijki kodu. Porzuciłem pracę wyuczonego zawodu z osobistych powodów i przez kilka lat zmieniałem wykonywane zawody, aby wreszcie w roku 2022 przebranżowić się na kierowcę zawodowego.
+Jeżdżę ciężarówką po całym kraju wożąc żywność. Tak więc praca jest i będzie, oraz że się nie skończy o ile tylko nie zrobię czegoś głupiego żeby ją stracić - a to w ruchu drogowym wcale nie jest trudne. W każdym bądź razie,
+przyjąłem ten zawód z całym jego charakterem. Zazwyczaj od momentu wyjścia do pracy do powrotu do domu mija około 30 godzin. Miesięcznie pokonuję dystans rzędu od ośmiu do jedenstu tysięcy kilometrów jeżdżąc w znacznej
+większości nocami. Praca jest wymagająca. I posiada pewną cechę, której część kierowców nie potrafi znieść. Właściwie cały czas jeżdżę sam. W ciszy. Z własnymi myślami. Czasem ktoś zadzwoni rozpraszając skupienie, jednak
+znaczną większość czasu - o ile ktoś potrafi - można poświęcić na przemyślenia o czykolwiek.
 
 
