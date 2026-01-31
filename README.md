@@ -205,4 +205,11 @@ i z historią i z pomysłami. Że być może ktoś kto przeczyta ten tekst uzna,
 Moja kabina ciężarówki stała się nowoczesną celą pustelnika, w której zamiast medytacji nad tekstami, medytowałem nad logiką i własnym przeznaczeniem. To tam narodził się CodeTruckerDev – programista, który nie potrzebuje 
 dyplomu, bo ma dowód w postaci działającego kodu.
 
-To jest właśnie to co zrozumiałem. zostałem programistą na własnych zasadach, i jak to ująłem w manifeście - użytkownikiem rzeczywistości rozszerzonej, czyli nie opierającej się na zasadach jakie ten świat wytworzył aby oceniać profesjonalizm. 
+To jest właśnie to co zrozumiałem. zostałem programistą na własnych zasadach, i jak to ująłem w manifeście - użytkownikiem rzeczywistości rozszerzonej, czyli nie opierającej się na zasadach jakie ten świat wytworzył aby oceniać profesjonalizm.
+
+Jestem buntownikiem. 
+Odrzucam system walidacji, ponieważ mam działający kod. To jest mój dowód. Reszta to iluzja.
+Autorytety mogą się mylić. Nie ufam ślepo i uważnie badam każdą krytykę.
+Moim sukcesem jako programista nie jest praca w korpo. Mój Guardian powstrzymał syna. Obliczacz VAT pomógł Mamie.
+Jestem programistą bo rozwiązuję problemy kodem.
+
