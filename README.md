@@ -149,7 +149,7 @@ uczyły się przy okazji. Finalnie aplikacja była krótko przeze mnie używana,
 
 Mistrz-ortografii [link]
 
-Wszystkie powyższe aplikacje z tego zordziału były dziełem roku 2017. I mając kontakt z Panem Maciejem co kilka tygodni wymienialiśmy informacje, za pomocą których trafiłem także jako wpis na jego bloga. 
+Wszystkie powyższe aplikacje z tego rozdziału były dziełem roku 2017. I mając kontakt z Panem Maciejem co kilka tygodni wymienialiśmy informacje, za pomocą których trafiłem także jako wpis na jego bloga. 
 
 Jednak nastąpiło coś, czego się nie spodziewałem. W wyniku jednej z takich rozmów Pan Maciej przekonywał mnie, że osoba taka jak ja, bez wykształcenia i bez znajomości podstaw nie ma szans zostać programistą. I jako, że 
 Pan Maciej był dle mnie swoistym autorytetem i ekspertem uwierzyłem w jego słowa podkręcane zresztą przez mój brak wiary w siebie. I ponownie uznałem - pomimo że programowanie sprawia mi niesamowitą frajdę - że nie 
@@ -159,8 +159,51 @@ powinienm się nim zajmować. Że od tego są wykształceni specjaliści. I te s
 
 Minęło 8 lat odkąd napisałem ostatnie linijki kodu. Porzuciłem pracę wyuczonego zawodu z osobistych powodów i przez kilka lat zmieniałem wykonywane zawody, aby wreszcie w roku 2022 przebranżowić się na kierowcę zawodowego.
 Jeżdżę ciężarówką po całym kraju wożąc żywność. Tak więc praca jest i będzie, oraz że się nie skończy o ile tylko nie zrobię czegoś głupiego żeby ją stracić - a to w ruchu drogowym wcale nie jest trudne. W każdym bądź razie,
-przyjąłem ten zawód z całym jego charakterem. Zazwyczaj od momentu wyjścia do pracy do powrotu do domu mija około 30 godzin. Miesięcznie pokonuję dystans rzędu od ośmiu do jedenstu tysięcy kilometrów jeżdżąc w znacznej
-większości nocami. Praca jest wymagająca. I posiada pewną cechę, której część kierowców nie potrafi znieść. Właściwie cały czas jeżdżę sam. W ciszy. Z własnymi myślami. Czasem ktoś zadzwoni rozpraszając skupienie, jednak
-znaczną większość czasu - o ile ktoś potrafi - można poświęcić na przemyślenia o czykolwiek.
+przyjąłem ten zawód z całą jego specyfiką. Miesięcznie pokonuję dystans rzędu od ośmiu do jedenstu tysięcy kilometrów jeżdżąc w znacznej większości nocami. Praca jest wymagająca. I posiada pewną istotną cechę, która pomogła 
+mi odnaleźć siebie. Właściwie cały czas jeżdżę sam. W ciszy. Z własnymi myślami. Czasem ktoś zadzwoni rozpraszając skupienie, jednak znaczną większość czasu - o ile ktoś ma ku temu predyspozycje - można poświęcić na 
+przemyślenia. O czymkolwiek. 
+
+Praca kierowcy zawodowego często jest postrzegana przez pryzmat kilometrów, ale dla mnie stała się przestrzenią do rozwoju duchowego i intelektualnego. Samotność pozwoliła mi usłyszeć własne myśli, 
+których Pan Maciej i inni "eksperci" nie mogli już zagłuszyć.
+
+Po dwóch latach za kierownicą nagle ujrzałem zapotrzebowanie na aplikację, która miałaby mi mi pomóc zbierać dane w ujęciu miesięcznym sumujące pokonany dystans wraz z odbytymi delegacjami. Delegacje to czas, w którym śpię w kabinie
+będąc daleko od domu. Te obie wartości mają istotny wpływ na otrzymywane przeze mnie wynagrodzenie. I pomimo że zalecaną technologią tworzenia aplikacji na telefon z androidem jest Kotlin lub Java, to mając doświadczenie z Pythonem 
+właśnie w nim zacząłem pisać moją aplikację. Nazwałem ją Mileage. Po wstępnym researchu okazało się że sam Python nie wystarczy. Pomocne okazało się Kivy. W ten oto sposób po około dwóch miesiącach powstało moje nowe dzieło.
+Pisanie trochę zajęło, gdyż ciężko czasem znaleźć chwilę na pisanie będąc w trasie. A jeżdżę dużo. Ale nowopowstałe zacięcie nie pozwoliło mi się poddać. I powróciły chęci programowania.
+
+Mileage [link]
 
 
+
+
+
+
+
+
+
+
+## EPILOG
+
+Aby odnaleźć siebie chociaż w części, w moim przypadku musiało minąć dużo czasu. 
+
+Od samego początku to nie było tylko kodowanie, ponieważ od pierwszego pomysłu projektuję rozwiązania i nie potrzebuję wykładowcy żeby wiedzieć, że coś "nie gra" w GUI. Sam wykrywam błędy i szukam optymalizacji. I pomimo, że czasem kod
+nie wygląda profesjonalnie, robi to co miał według założeń robić. Wymyślając sobie wyzwania nauczyłem się jak czytać błędy, a sporo ich przerobiłem. Uczyłem się w erze bez AI, wtedy było tylko google, masa czytania, masa prób i błędów. 
+I co ciekawe świadomie pisałem wszystko z palca w Pythonowym IDLE albo w Linuxowym VIM-ie - bez żadnych autocompletion czy kolorowania składni, jakbym mentalnie był zawieszony w końcowych latach poprzedniego stulecia, gdzie tych wspomagaczy 
+po prostu nie było. Wtedy gdy narodziło się moje marzenie pisania programów komputerowych.
+
+Pomogła mi w tym moja obecna praca, czyli praca kierowcy zawodowego. Otóż podstawową chyba cechą tej pracy jest długie przebywanie samotnie w kabinie ciężarówki, która w pewnym momencie stała się moim sanktuarium. Początkowo 
+cisza mnie męczyła, ale później ta sama cisza i mój wewnętrzny poszukiwacz pchnęły mnie w kierunku, który uważam za poważny rozwój duchowy. W międzyczasie napisałem aplikację Mileage, która miała pomóc tylko mi. Pisząc ją miałem moje 
+pierwsze kontakty z LLM. początkowo tylko z jednym, ale gdy sprowadził mnie na manowce i gdy ujrzałem jego słabość do robienia błędów i koloryzowania, gdy nie zna odpowiedzi
+zmieniłem zdanie które media wtłaczają ludziom jakoby AI było takim super niezawodnym narzędziem. Początkowo pisałem tylko z chatemGPT. troszkę pomagał w kodzie zwłaszcza w częściach z Kivy, a później gdy wprowadził mnie w błąd 
+podczas walki z buildozerem chwilę trwało zanim dostrzegłem ponawiający się algorytm podpowiedzi, który prowadził w błędne koło. Pierwszy błąd generował drugi, drugi trzeci, trzeci czwarty a czwarty znowu pierwszy. Była to 
+sytuacja bez wyjścia i powstała tylko dlatego że uznałem to co LLM sugerował za prawdziwe. I wtedy wziąłem dokumentację na warsztat i znalazłem błąd, po którym apka poprawnie się skompilowała do pliku apk. Ale wtedy jeszcze miałem 
+(i chyba nadal trochę mam) dziwną cechę potrzeby walidacji tego co tworzę. Prawdopodobnie jest to efekt wszystkich moich doświadczeń z przeszłości. Więc GPT lukrował moje pomysły wedle założeń projektowych LLM, ale poprosiłem 
+go o rzetelną i krytyczną ocenę. Wtedy chyba już nawet nie pracowałem nad aplikacją mobilną a nad Noesis. No i właściwie na moje własne życzenie rozstrzelał mnie całkowicie niszcząc wszelkie złudne nadzieje. I gdy mój umysł w 
+zasadzie brodził w czarnej nicości wiary w siebie, zbudowałem ją na nowo, ale na innym fundamencie, którego głównym założeniem było nie szukanie walidacji moich pomysłów. Wtedy zrozumiałem że pisząc moje projekciki w latach 
+2016-18 już wtedy byłem programistą. A mi się ciągle wydawało że droga przede mną jeszcze długa i kręta. Po tych przemyśleniach powstał mój manifest który wrzuciłem na githuba, i wtedy także uznałem że pokażę światu siebie 
+i z historią i z pomysłami. Że być może ktoś kto przeczyta ten tekst uzna, że skoro mi się udało to i jej bądź jemu się uda. W czymkolwiek. Nie tylko w programowaniu. I to właśnie tu narodziła się ta historia.
+
+Moja kabina ciężarówki stała się nowoczesną celą pustelnika, w której zamiast medytacji nad tekstami, medytowałem nad logiką i własnym przeznaczeniem. To tam narodził się CodeTruckerDev – programista, który nie potrzebuje 
+dyplomu, bo ma dowód w postaci działającego kodu.
+
+To jest właśnie to co zrozumiałem. zostałem programistą na własnych zasadach, i jak to ująłem w manifeście - użytkownikiem rzeczywistości rozszerzonej, czyli nie opierającej się na zasadach jakie ten świat wytworzył aby oceniać profesjonalizm. 
