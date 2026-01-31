@@ -166,7 +166,7 @@ przemyślenia. O czymkolwiek.
 Praca kierowcy zawodowego często jest postrzegana przez pryzmat kilometrów, ale dla mnie stała się przestrzenią do rozwoju duchowego i intelektualnego. Samotność pozwoliła mi usłyszeć własne myśli, 
 których Pan Maciej i inni "eksperci" nie mogli już zagłuszyć.
 
-Po dwóch latach za kierownicą nagle ujrzałem zapotrzebowanie na aplikację, która miałaby mi mi pomóc zbierać dane w ujęciu miesięcznym sumujące pokonany dystans wraz z odbytymi delegacjami. Delegacje to czas, w którym śpię w kabinie
+Po dwóch latach za kierownicą nagle ujrzałem zapotrzebowanie na aplikację, która miałaby mi mi pomóc zbierać dane w ujęciu miesięcznym sumująca pokonany dystans wraz z odbytymi delegacjami. Delegacje to czas, w którym śpię w kabinie
 będąc daleko od domu. Te obie wartości mają istotny wpływ na otrzymywane przeze mnie wynagrodzenie. I pomimo że zalecaną technologią tworzenia aplikacji na telefon z androidem jest Kotlin lub Java, to mając doświadczenie z Pythonem 
 właśnie w nim zacząłem pisać moją aplikację. Nazwałem ją Mileage. Po wstępnym researchu okazało się że sam Python nie wystarczy. Pomocne okazało się Kivy. W ten oto sposób po około dwóch miesiącach powstało moje nowe dzieło.
 Pisanie trochę zajęło, gdyż ciężko czasem znaleźć chwilę na pisanie będąc w trasie. A jeżdżę dużo. Ale nowopowstałe zacięcie nie pozwoliło mi się poddać. I powróciły chęci programowania.
@@ -207,9 +207,15 @@ dyplomu, bo ma dowód w postaci działającego kodu.
 
 To jest właśnie to co zrozumiałem. zostałem programistą na własnych zasadach, i jak to ująłem w manifeście - użytkownikiem rzeczywistości rozszerzonej, czyli nie opierającej się na zasadach jakie ten świat wytworzył aby oceniać profesjonalizm.
 
+[Manifest Twórcy Niezależnego](https://github.com/CodeTruckerDev/CodeTruckerDev/blob/main/MANIFEST.md)
+
 Jestem buntownikiem. 
+
 Odrzucam system walidacji, ponieważ mam działający kod. To jest mój dowód. Reszta to iluzja.
+
 Autorytety mogą się mylić. Nie ufam ślepo i uważnie badam każdą krytykę.
+
 Moim sukcesem jako programista nie jest praca w korpo. Mój Guardian powstrzymał syna. Obliczacz VAT pomógł Mamie.
+
 Jestem programistą bo rozwiązuję problemy kodem.
 
