@@ -173,12 +173,11 @@ Pisanie trochę zajęło, gdyż ciężko czasem znaleźć chwilę na pisanie bę
 
 Mileage [link]
 
+{NOESIS}
+  do opisu
 
-
-
-
-
-
+{COVER}
+  do opisu
 
 
 
