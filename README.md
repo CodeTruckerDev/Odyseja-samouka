@@ -1,4 +1,8 @@
 # Odyseja-samouka
+# Self-Taught-Odyssey
+
+Although I know English, I am not an expert in its use, especially when it comes to conveying emotions. That is why the following text was written in my native language. Therefore, dear reader, if you do not know Polish, 
+please use a translation tool or AI, which should best convey the content I want to present.
 
 Z góry uprzedzam, to będzie długa opowieść, bez skrótów typu TL;DR
 
@@ -173,49 +177,61 @@ Pisanie trochę zajęło, gdyż ciężko czasem znaleźć chwilę na pisanie bę
 
 Mileage [link]
 
-{NOESIS}
-  do opisu
+Podczas moich eksploracji jednego z wcześniejszych projektów, a konkretniej mówiąc Project X - zacząłem się zastanawiać nad innym rozwiązaniem wyzwalacza koloru. W Project X wyzwalający kolor był na sztywno ustawiony i był nim kolor
+czerwony. Ale pomyślałem nad tym, aby kolor był generowany losowo. Miejsce jego wystąpienia w ciągu kolorów było stałe za każdym razem, jednak utworzyłem enigmatycznie napisane podpowiedzi czyniąc proces odgadnięcia końcowego
+hasła zjawiskiem wręcz rytualnym. 
 
-{COVER}
-  do opisu
+Wtedy właśnie postanowiłem skonfrontować treść nowego projektu z LLM. Nie potrafię powiedzieć dlaczego tak uczyniłem, zwłaszcza że poprosiłem o maksymalnie krytyczną ocenę. I w pewnym stopniu nie byłem zaskoczony jej wynikiem. 
+LLM co do zasady określonej w planie biznesowym zazwyczaj (o ile nie zawsze) wychwala pomysły użytkowników. Oprócz tych niezgodnych z prawem oczywiście, ale nie o tym chciałem powiedzieć. Mianowicie 
 
+No i właściwie na moje własne życzenie rozstrzelał mnie całkowicie niszcząc wszelkie złudne nadzieje. I gdy mój umysł w zasadzie brodził w czarnej nicości wiary w siebie, zbudowałem ją na nowo, ale na innym fundamencie, którego głównym 
+założeniem było nie szukanie walidacji moich pomysłów. Prawdopodobnie jako efekt wszystkich negatywnych doświadczeń z przeszłości miałem (i chyba nadal trochę mam) dziwną cechę potrzeby walidacji tego co tworzę. Walczę po dziś dzień z tym demonem.
+I na tamtą chwilę zakończyłem pracę nad obecnym projektem nie widząc dla niego przestrzeni.
 
+Noesis [link]
+
+Po czterech misiącach, podczas których stosując się do zasady którą poznałem podczas pisania Mistrza Ortografii próbowałem zmienić zasady samego projektu wracając kilka kroków wstecz. Tak powstał COVER, którego nazwa jest skrótem ze słów 
+"Color Otp VERification". Tym razem starałem się podejść do tematu inaczej zmieniając logikę wyboru wyzwalającego koloru oraz rezygnując z enigmatycznych zagadek. I powstała kompletna łamigłówka, która mogłaby posłużyć jako szablon dla
+wielu różnych jej odbiorców. Moja logika jest tylko przykładem, a cała aplikacja staje się pełnym systemem generowania haseł jednorazowych nigdzie nie zapisywanych, których rozwiązanie jest znane tylko dla osób znających regułę jego 
+odszukania. To całkowicie eliminuje potrzebę pamiętania hasła. I co być może być nowym punktem odniesienia w świecie 'haseł'.
+
+COVER [link]
 
 ## EPILOG
 
-Aby odnaleźć siebie chociaż w części, w moim przypadku musiało minąć dużo czasu. 
+Aby odnaleźć siebie chociaż w tej części, w moim przypadku musiało minąć dużo czasu. Nie wiem tak naprawdę skąd brała się we mnie ta iskierka, która pchała mnie w kierunku programowania pomimmo problemów zapoczątkowanych pod koniec poprzedniego
+stulecia jeszcze w Turbo Pascalu. I pomimo dwóch poważnych kryzysów, w których walidacja zawnętrzna, nie ważne przypadkowa czy wyproszona okazały się posiadać czynnik niszczący moje marzenie - za każdym razem wstałem. Tak jak na początku gdy 
+myślałem że nie dam rady, a mimo wszystko podejmowałem kolejne próby. 
 
 Od samego początku to nie było tylko kodowanie, ponieważ od pierwszego pomysłu projektuję rozwiązania i nie potrzebuję wykładowcy żeby wiedzieć, że coś "nie gra" w GUI. Sam wykrywam błędy i szukam optymalizacji. I pomimo, że czasem kod
-nie wygląda profesjonalnie, robi to co miał według założeń robić. Wymyślając sobie wyzwania nauczyłem się jak czytać błędy, a sporo ich przerobiłem. Uczyłem się w erze bez AI, wtedy było tylko google, masa czytania, masa prób i błędów. 
+nie wygląda profesjonalnie, robi to co miał według założeń robić. Wymyślając sobie wyzwania nauczyłem się jak czytać błędy, a sporo ich przerobiłem. Uczyłem się w erze bez AI, wtedy było tylko Google, masa czytania, masa prób i błędów. 
 I co ciekawe świadomie pisałem wszystko z palca w Pythonowym IDLE albo w Linuxowym VIM-ie - bez żadnych autocompletion czy kolorowania składni, jakbym mentalnie był zawieszony w końcowych latach poprzedniego stulecia, gdzie tych wspomagaczy 
 po prostu nie było. Wtedy gdy narodziło się moje marzenie pisania programów komputerowych.
 
-Pomogła mi w tym moja obecna praca, czyli praca kierowcy zawodowego. Otóż podstawową chyba cechą tej pracy jest długie przebywanie samotnie w kabinie ciężarówki, która w pewnym momencie stała się moim sanktuarium. Początkowo 
+W tej ewolucji pomogła mi moja obecna praca, czyli praca kierowcy zawodowego. Podstawową cechą tej pracy jest długie przebywanie samotnie w kabinie ciężarówki, która w pewnym momencie stała się moim sanktuarium. Początkowo 
 cisza mnie męczyła, ale później ta sama cisza i mój wewnętrzny poszukiwacz pchnęły mnie w kierunku, który uważam za poważny rozwój duchowy. W międzyczasie napisałem aplikację Mileage, która miała pomóc tylko mi. Pisząc ją miałem moje 
-pierwsze kontakty z LLM. początkowo tylko z jednym, ale gdy sprowadził mnie na manowce i gdy ujrzałem jego słabość do robienia błędów i koloryzowania, gdy nie zna odpowiedzi
-zmieniłem zdanie które media wtłaczają ludziom jakoby AI było takim super niezawodnym narzędziem. Początkowo pisałem tylko z chatemGPT. troszkę pomagał w kodzie zwłaszcza w częściach z Kivy, a później gdy wprowadził mnie w błąd 
-podczas walki z buildozerem chwilę trwało zanim dostrzegłem ponawiający się algorytm podpowiedzi, który prowadził w błędne koło. Pierwszy błąd generował drugi, drugi trzeci, trzeci czwarty a czwarty znowu pierwszy. Była to 
-sytuacja bez wyjścia i powstała tylko dlatego że uznałem to co LLM sugerował za prawdziwe. I wtedy wziąłem dokumentację na warsztat i znalazłem błąd, po którym apka poprawnie się skompilowała do pliku apk. Ale wtedy jeszcze miałem 
-(i chyba nadal trochę mam) dziwną cechę potrzeby walidacji tego co tworzę. Prawdopodobnie jest to efekt wszystkich moich doświadczeń z przeszłości. Więc GPT lukrował moje pomysły wedle założeń projektowych LLM, ale poprosiłem 
-go o rzetelną i krytyczną ocenę. Wtedy chyba już nawet nie pracowałem nad aplikacją mobilną a nad Noesis. No i właściwie na moje własne życzenie rozstrzelał mnie całkowicie niszcząc wszelkie złudne nadzieje. I gdy mój umysł w 
-zasadzie brodził w czarnej nicości wiary w siebie, zbudowałem ją na nowo, ale na innym fundamencie, którego głównym założeniem było nie szukanie walidacji moich pomysłów. Wtedy zrozumiałem że pisząc moje projekciki w latach 
-2016-18 już wtedy byłem programistą. A mi się ciągle wydawało że droga przede mną jeszcze długa i kręta. Po tych przemyśleniach powstał mój manifest który wrzuciłem na githuba, i wtedy także uznałem że pokażę światu siebie 
-i z historią i z pomysłami. Że być może ktoś kto przeczyta ten tekst uzna, że skoro mi się udało to i jej bądź jemu się uda. W czymkolwiek. Nie tylko w programowaniu. I to właśnie tu narodziła się ta historia.
+pierwsze kontakty z LLM. Początkowo tylko z jednym, ale gdy sprowadził mnie na manowce i gdy ujrzałem jego słabość do robienia błędów i halucynowania gdy nie zna odpowiedzi zmieniłem zdanie, które media wtłaczają ludziom jakoby AI było takim 
+super niezawodnym narzędziem. Niewiele później gdy LLM wprowadził mnie w błąd podczas pracy z buildozerem, chwilę trwało zanim dostrzegłem ponawiający się algorytm podpowiedzi, który prowadził w błędne koło. 
+Pierwszy błąd generował drugi, drugi trzeci, trzeci czwarty a czwarty znowu pierwszy. Była to sytuacja bez wyjścia i powstała tylko dlatego, że uznałem to co LLM sugerował za prawdziwe. I wtedy wziąłem dokumentację na warsztat i znalazłem błąd, 
+po którym aplikacja poprawnie się skompilowała do pliku apk.
+
+Wtedy zrozumiałem że pisząc moje projekciki w latach 2016-18 już wtedy byłem programistą. A mi się ciągle wydawało że droga przede mną jeszcze długa i kręta. Że muszę nauczyć się połowy internetu żeby móc świadomie poiedzieć, że już coś tam 
+umiem. Jednak prawda - przynajmniej tak teraz odbieram ten stan - okazała się być o wiele prostsza. Po tych przemyśleniach powstał mój manifest, który zamieściłem na githubie, i wtedy także uznałem że pokażę światu siebie i z historią i z pomysłami. 
+Że być może ktoś kto przeczyta ten tekst uzna, że skoro mi się udało pomimo niemal trzydziestoletniej podróży, to i jej bądź jemu się uda. W czymkolwiek. Nie tylko w programowaniu. I tak właśnie powstał pomysł spisania odysei.
+
+[Manifest Twórcy Niezależnego](https://github.com/CodeTruckerDev/CodeTruckerDev/blob/main/MANIFEST.md)
 
 Moja kabina ciężarówki stała się nowoczesną celą pustelnika, w której zamiast medytacji nad tekstami, medytowałem nad logiką i własnym przeznaczeniem. To tam narodził się CodeTruckerDev – programista, który nie potrzebuje 
 dyplomu, bo ma dowód w postaci działającego kodu.
 
-To jest właśnie to co zrozumiałem. zostałem programistą na własnych zasadach, i jak to ująłem w manifeście - użytkownikiem rzeczywistości rozszerzonej, czyli nie opierającej się na zasadach jakie ten świat wytworzył aby oceniać profesjonalizm.
+To jest właśnie to co zrozumiałem. **zostałem programistą na własnych zasadach**, i jak to ująłem w manifeście - użytkownikiem rzeczywistości rozszerzonej, czyli nie opierającej się na zasadach jakie ten świat wytworzył, aby oceniać profesjonalizm.
 
-[Manifest Twórcy Niezależnego](https://github.com/CodeTruckerDev/CodeTruckerDev/blob/main/MANIFEST.md)
-
-Jestem buntownikiem. 
+---
 
 Odrzucam system walidacji, ponieważ mam działający kod. To jest mój dowód. Reszta to iluzja.
 
 Autorytety mogą się mylić. Nie ufam ślepo i uważnie badam każdą krytykę.
 
-Moim sukcesem jako programista nie jest praca w korpo. Mój Guardian powstrzymał syna. Obliczacz VAT pomógł Mamie.
+Moim sukcesem jako programista nie jest praca w korpo. Mój Guardian powstrzymał syna. Obliczacz VAT pomógł Mamie. COVER być może zmieni podejście do haseł.
 
 Jestem programistą bo rozwiązuję problemy kodem.
-
