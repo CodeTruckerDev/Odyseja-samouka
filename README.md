@@ -9,11 +9,11 @@ Z góry uprzedzam, to będzie długa opowieść, bez skrótów typu TL;DR
 ## PROLOG
 
 Urodziłem się w roku 1980, a w moich latach młodzieńczych imponowała mi postać pewnego znanego ówcześnie człowieka. Był nim Kevin Mitnick. 
-I to, co postrzegałem za niesamowite w tejże postaci był fakt, że wszystkiego się nauczył i co opanował, dokonał tego samodzielnie. 
+I to, co postrzegałem za niesamowite w tejże postaci był fakt, że wszystko czego się nauczył i co opanował, dokonał tego samodzielnie. 
 W ten właśnie sposób narodził się pomysł, że skoro on nauczył się czegoś sam, to i ja dam radę samodzielnie nauczyć się pisania programów komputerowych.
 
 Jako szkołę średnią wybrałem technikum elektroniczne ze specjalnością "Systemy komputerowe", jednak niestety nie znalazłem tam informacji, dzięki którym mógłbym
-rozpocząć naukę programowania. Jedyna tematyka zajęć dodatkowych, która wywarła na mnie wielkie wrażenie dotyczyła systemu operacyjnego UNIX. 
+rozpocząć naukę programowania. Jedynie tematyka zajęć dodatkowych, która wywarła na mnie wielkie wrażenie dotyczyła systemu operacyjnego UNIX. 
 Wtedy poznałem pierwsze komendy tego systemu, co było zalążkiem miłości do systemów operacyjnych opartych na jądrze Linuxa. 
 
 Nie znając totalnie nikogo, kto mógłby mi pomóc - sam na własną rękę postanowiłem że zawalczę z tematem programowania. I tak na warsztat wziąłem język Turbo Pascal. 
@@ -21,7 +21,9 @@ Mozolnie wklepywałem pierwsze komendy, jednak gdy nastąpił pierwszy poważnie
 że to chyba jednak nie jest dla mnie. I temat programowania poszedł w kąt. 
 
 Jednak po kilku miesiącach zapragnąłem spróbować ponownie. I skoro Turbo Pascal sprawiał mi trudności, stwierdziłem że użyję czegoś innego. Gdy jednak doszedłem do tego samego
-momentu blokady, znając już wcześniejszy sposób ponownie uznałem że programowanie nie jest dla mnie. Ileż ja się namęczyłem z ++i oraz i++ (z minusami także). 
+momentu blokady, znając już wcześniejszy sposób ponownie uznałem, że programowanie nie jest dla mnie. 
+
+Ileż ja się namęczyłem z ++i oraz i++ (z minusami także). 
 
 I tak co kilka miesięcy podejmowałem próby z kolejnymi językami programowania, jednak brak konkretnie wskazanej specjalizacji czy kierunku owocował w kolejnych momentach, 
 gdzie porzucałem temat nauki programowania. A po pewnym czasie stwierdziłem, że już chyba całkowicie nie mam co się z tym męczyć. I odpuściłem niemal na zawsze.
@@ -32,12 +34,12 @@ i jak wiele dzieciaków z tamtego czasu, miał poważny problem z ilościa czasu
 indziej nie byłbym w stanie odblokować komputera. Zacząłem więc poszukiwania aplikacji do nadzoru ile dziecko może spędzić przy komputerze. A wtedy w roku 2016 nie było jeszcze zbyt wielu 
 możliwości. Wszelkie polskojęzyczne aplikacje nie spełniały mojego założenia, a pozostałe które znalazłem były płatne w dolarach, co dla mnie wtedy było problemowe.
 
+I w tym właśnie momencie uznałem, że napiszę taką aplikację sam. To jest początek prawdziwej opowieści.
+
 Zrobiłem więc ranking języków programowania, wybrałem Pythona i rozpocząłem naukę z tutoriali dostępnych na platformie YouTube. Jednak po pewnym niedługim czasie zauważyłem, że tutoriale te 
 oczywiście pokazują użycie komend ale nie uczą praktyki. Opracowałem więc własny sposób nauki. Zarejestrowałem się na oficjalnym forum Pythonowym i korzystając z pytań, które zgłaszali studenci
 zgłębiałem wiedzę dotyczącą tego języka. Googlałem tematy, przeprowadzałem testy na swoim komputerze, po czym dawałem odpowiedź. Nigdy nie dawałem gotowca, dawałem podpowiedzi naprowadzające na
 odpowiedź wraz z odnośnikami do źródeł. Tak więc pytający byli zadowoleni, i ja także.
-
-I w tym właśnie momencie uznałem, że napiszę taką aplikację sam. To jest początek prawdziwej opowieści.
 
 ## ROZDZIAŁ 1 - GUARDIAN
 
