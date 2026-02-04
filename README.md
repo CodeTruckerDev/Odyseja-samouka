@@ -162,8 +162,8 @@ Mistrz-ortografii [link]
 Wszystkie powyższe aplikacje z tego rozdziału były dziełem roku 2017. I mając kontakt z Panem Maciejem co kilka tygodni wymienialiśmy informacje, za pomocą których trafiłem także jako wpis na jego bloga. 
 
 Jednak nastąpiło coś, czego się nie spodziewałem. W wyniku jednej z takich rozmów Pan Maciej przekonywał mnie, że osoba taka jak ja, bez wykształcenia i bez znajomości podstaw nie ma szans zostać programistą. I jako, że 
-Pan Maciej był dla mnie swoistym autorytetem i ekspertem uwierzyłem w jego słowa podkręcane zresztą przez mój brak wiary w siebie. I ponownie uznałem - pomimo że programowanie sprawia mi niesamowitą frajdę - że nie 
-powinienm się nim zajmować. Że od tego są wykształceni specjaliści. I te słowa w pewnym momencie ugasiły żar moich marzeń.
+Pan Maciej był dla mnie swoistym autorytetem i ekspertem uwierzyłem w jego słowa podkręcane zresztą przez mój brak wiary w siebie. Tu niestety mój talizman nie wykazywał mocy. Moje własne przekonania miały większą siłę.  I ponownie 
+uznałem - pomimo że programowanie sprawia mi niesamowitą frajdę - że nie powinienm się nim zajmować. Że od tego są wykształceni specjaliści. I te słowa w pewnym momencie ugasiły żar moich marzeń.
 
 ## ROZDZIAŁ 3 - POWRÓT (i nowe nadzieje)
 
