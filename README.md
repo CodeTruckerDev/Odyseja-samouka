@@ -151,6 +151,10 @@ I tak niemal zakończyła się historia z tym projektem. Ale nie do końca. Poni
 do Wifi. I ja wtedy mówiłem: dobrze, nie ma problemu. Ale najpierw zerknijcie, mam tu taką aplikację. Jeśli osiągniecie stu procentową skuteczność po dwudziestu słowach - podam wam hasło. I dzieciaki walcząc o hasło
 uczyły się przy okazji. Finalnie aplikacja była krótko przeze mnie używana, ale co było moim niesamowitym sukcesem sprzedałem (za niewielkie pieniądze) tę aplikację jednej osobie dla jego dzieci :)
 
+Przypomniała mi się pewna sytuacja gdy dotarłem na meetup PyWaw. Otóż jak dotarłem pod wskazany adres strasznie się denerwowałem. Z tego stresu bałem się wejść do budynku, gdzie to spotkanie miało mieć miejsce. ale w końcu wszedłem. 
+I na wejściu stali ludzie kontrolujący wchodzących, bo tylko zarejestrowane osoby mogły wejść. Więc przechodząc weryfikację dostałem taki zalaminowany bon, który uprawniał mnie do darmowego picia. Nie wykorzystałem go i zabrałem do 
+domu. Ale obecnie już go nie mam. Laminat się popsuł i zawartość wypadła, więc to w końcu wyrzuciłem. Ale dość długo ten token był moim talizmanem dającym +10 do pewności siebie :)
+
 Mistrz-ortografii [link]
 
 Wszystkie powyższe aplikacje z tego rozdziału były dziełem roku 2017. I mając kontakt z Panem Maciejem co kilka tygodni wymienialiśmy informacje, za pomocą których trafiłem także jako wpis na jego bloga. 
@@ -235,3 +239,5 @@ Autorytety mogą się mylić. Nie ufam ślepo i uważnie badam każdą krytykę.
 Moim sukcesem jako programista nie jest praca w korpo. Mój Guardian powstrzymał syna. Obliczacz VAT pomógł Mamie. COVER być może zmieni podejście do haseł.
 
 Jestem programistą bo rozwiązuję problemy kodem.
+
+Jestem i kierowcą, i programistą, i autorem (mam nadzieję, że to co napisałem powyżej dało się łatwo przeczytać ;) ).
