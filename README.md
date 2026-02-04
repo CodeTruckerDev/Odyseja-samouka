@@ -105,7 +105,7 @@ Toczyłem wewnętrzną walkę o wiarę we własne siły oraz projekty i niestety
 
 Super-secret-searcher [link]
 
-Gdy tworzyłem Guardiana, miałem pomysły żeby była mmożliwość odblokowaa Windowsa własnym hasłem, czyli żeby system przez kilka minut po osiągnięciu maksymalnego czasu korzystania z komputera wyświetlał okienko 
+Gdy tworzyłem Guardiana, miałem pomysły żeby była możliwość odblokowania Windowsa własnym hasłem, czyli żeby system przez kilka minut po osiągnięciu maksymalnego czasu korzystania z komputera wyświetlał okienko 
 z możłiwością wpisania hasła, które pozwalałoby na dalsze korzystanie z komputera. Finalnie nie zastosowałem tego rodzaju rozwiązań, jednak ten sposób zabezpieczania aplikacji stał się trzonem
 mojego procesu nauki oraz rozważań teoretycznych i praktycznych. Zastanawiałem się nad ukrytymi i nieoczywistymi rozwiązaniami, które wymagają od użytkownika interakcji ażeby w pewien sposób rozwiązać 
 zagadkę i wpisać prawidłowe hasło. I przy tym projekcie realizowałem także naukę importów zewnętrznych modułów. Stworzyłem więc aplikację, w której w górnej części okienka (ofc tkinter) wyświetlał się napis
@@ -118,13 +118,13 @@ korzystałem z Ubuntu. Dosyć krótko, bo denerwowała mnie ilość niepotrzebne
 narodziła się pasja do korzystania z terminala. Zacząłem się więc uczyć pisania skryptów bash, a później podstawowych narzędzi systemów operacyjnych z rodziny *nix. W ten oto sposób obsługa komputera
 bez odrywania rąk z klawiatury zaczęła mnie interesować bardziej. Zmieniłem standardowe dla Pythona IDLE na rzecz VIMa. Z Ubuntu przeskoczyłem na Manjaro, a później na Archa ze środowiskiem i3. I w nim 
 spędzałem cały czas jaki miałem za zabawę związaną z komputerem. Zabawę, ponieważ nauka tego wszystkiego zastępowała mi klasyczną rozrywkę jaką są gry. Nie potrzebowałem gier. Całkowicie wystarczało mi
-rozwiązywanie 'zadań' logicznych związanych z obs\lugą systemu operacyjnego.
+rozwiązywanie 'zadań' logicznych związanych z obsługą systemu operacyjnego.
 
-Po zapoznaniu się z większością systemu, jednak w stopniu tylko pdstawowym, gdyż jest tego zbyt wiele a ja mając ograniczone zasoby czasu musiałem decydować ile i czego się uczyć - zwróciłem uwagę na kolorowanie
+Po zapoznaniu się z większością systemu, jednak w stopniu tylko podstawowym, gdyż jest tego zbyt wiele a ja mając ograniczone zasoby czasu musiałem decydować ile i czego się uczyć - zwróciłem uwagę na kolorowanie
 składni tekstu wyświetlanego w terminalowym okienku. Tak narodził się pomysł nawiązujący do poprzedniej aplikacji na napisanie skryptu w Pythonie. To był taki mój 'protoplasta' AI. Głównym założeniem aplikacji
 było wykorzystanie losowości w utworzeniu znaków hasła, a następnie pokolorowaniu tych znaków jednym z określoną listą kolorów. Aplikacja ta miała w swoim założeniu wykorzystywać interakcję użytkownika i jego
 zdolność do obserwacji i rozwiązywania zagadek. W mojej apce wyświetlał się napis sugerujący że słowa te 'wypowiada' sztuczna inteligencja, a były to słowa "You can't STOP me". Istotnym elementem jest słowo STOP.
-A dkładniej kolor znaku drogowego, oznaczającego stop - czyli koloru czerwonego. I w wygenerowanym losowo i losowo pokolorowanym ciągu znaków, hasłem były tylko znaki w kolorze czerwonym. I jak w poprzednim przypadku
+A dokładniej kolor znaku drogowego, oznaczającego stop - czyli koloru czerwonego. I w wygenerowanym losowo i losowo pokolorowanym ciągu znaków, hasłem były tylko znaki w kolorze czerwonym. I jak w poprzednim przypadku
 zachęcam do samodzielnego wypróbowania. Windows 11 posiada już wbudowaną obsługę kolorów ANSII wykorzystaną w tym projekcie, więc nie trzeba już zaglądać do Linuxowego terminala, który mimo wszystko odstrasza
 większość użytkowników. Projekt nazwałem roboczo "Project X" i tak już zostało. Ale projekt ten stał się zalążkiem tego, co stworzyłem 8 lat później.
 
@@ -132,7 +132,7 @@ Project-X [link]
 
 Ciągle się ucząc nowych rzeczy, odwiedziłem pewną stronę której temat przewodni w tamtym czasie spowodował, że się zatrzymałem i zacząłem się zastanawiać nad moim procesem nauki. Była tam informacja o rozpoczynającym 
 się niebawem konkursie programistycznym. Oczywiście z nagrodami. Na podjęcie ewentualnej decyzji miałem nie więcej niż dwie godziny. I stwierdziłem, że chcę zobaczyć, jak taki konkurs wygląda od środka. Zgłosiłem się 
-więc z projektem, który w tamtym czasie wydawał mi się istotnym. Otóż mój syn, ten sam na którym przetestowałem Guardiana, miał problemy z ortografią. Nic specjalnego, sytuacja jak w wileu domach. A ja wtedy wymyśliłem,
+więc z projektem, który w tamtym czasie wydawał mi się istotnym. Otóż mój syn, ten sam na którym przetestowałem Guardiana, miał problemy z ortografią. Nic specjalnego, sytuacja jak w wielu domach. A ja wtedy wymyśliłem,
 że pomimo że na rynku były aplikacje do nauki ortografii - że napiszę własną, opierającą się na moich pomysłach. Głównymi założeniami konkursu oprócz oczywiście rozwoju projektu było prowadzenie bloga, który tygodniowo
 miał być zasilany dwoma wpisami - jednym dotyczącym aktualnie rozwiązywanego tematu aplikacji, oraz drugim, który mógł dotyczyć czegokolwiek. Całość oparłem oczywiście na znanym już mi tkinter. 
 
@@ -141,8 +141,8 @@ porażka. Robiłem tak wiele razy już kiedyś, i zrobię w przyszłości - o cz
 I przez pewien czas odpuściłem. Nie prowadziłem bloga i siłą rzeczy nie spełniając głównego założenia konkursu nie dostałem się do części finalnej. I tak nie liczyłem na nagrody. Jednak słowa Pana Macieja (bo tak ma na
 imię ów twórca tamtego konkursu) spowodowały, że nie ugiąłem się i nie położyłem całkowicie projektu. 
 
-Korzystając z forum, na którym wtedy byłem już troszkę znany poprzez punkty reputacji, skontaktowełem się ze stowarzyszeniem Pythonowym - PLPUG. Owe stowarzyszenie wspierało różne projekty związane z rozwojem dzieci, i 
-mój "Mistrz ortografii" idealnie tam pasował. Umówiłem się na rozmowę na żywo na jednym ze spotkań PyWaw organizowanym w Warszaawie. Pojechałem pełny niepewności, czy pasuję do tego środowiska. W końcu byli tam zawodowcy.
+Korzystając z forum, na którym wtedy byłem już troszkę znany poprzez punkty reputacji, skontaktowałem się ze stowarzyszeniem Pythonowym - PLPUG. Owe stowarzyszenie wspierało różne projekty związane z rozwojem dzieci, i 
+mój "Mistrz ortografii" idealnie tam pasował. Umówiłem się na rozmowę na żywo na jednym ze spotkań PyWaw organizowanym w Warszawie. Pojechałem pełny niepewności, czy pasuję do tego środowiska. W końcu byli tam zawodowcy.
 Albo kandydaci na zawodowców (studenci). I zostałem pochwalony za pomysł. Uzyskałem też pewną pomoc, która stała się także wyznacznikiem moich przyszłych projektów. Nikt mi wtedy nie mówił co i jak mam pisać, ale 
 dowiedziałem się że w takich przypadkach najlepiej jest zrobić kilka kroków wstecz, i zacząć pisać kod w sposób inny do tego co już zostało napisane. I to rzeczywiście zadziałało. I finalnie, pomimo że nie spełniałem już 
 obowiązku pisania bloga, mój projekt został zakończony sukcesem. I tak zapewne gdybym się dostał do finału nic bym nie wygrał. Ale wygrałem za to troszkę wiary w siebie.
@@ -156,7 +156,7 @@ Mistrz-ortografii [link]
 Wszystkie powyższe aplikacje z tego rozdziału były dziełem roku 2017. I mając kontakt z Panem Maciejem co kilka tygodni wymienialiśmy informacje, za pomocą których trafiłem także jako wpis na jego bloga. 
 
 Jednak nastąpiło coś, czego się nie spodziewałem. W wyniku jednej z takich rozmów Pan Maciej przekonywał mnie, że osoba taka jak ja, bez wykształcenia i bez znajomości podstaw nie ma szans zostać programistą. I jako, że 
-Pan Maciej był dle mnie swoistym autorytetem i ekspertem uwierzyłem w jego słowa podkręcane zresztą przez mój brak wiary w siebie. I ponownie uznałem - pomimo że programowanie sprawia mi niesamowitą frajdę - że nie 
+Pan Maciej był dla mnie swoistym autorytetem i ekspertem uwierzyłem w jego słowa podkręcane zresztą przez mój brak wiary w siebie. I ponownie uznałem - pomimo że programowanie sprawia mi niesamowitą frajdę - że nie 
 powinienm się nim zajmować. Że od tego są wykształceni specjaliści. I te słowa w pewnym momencie ugasiły żar moich marzeń.
 
 ## ROZDZIAŁ 3 - POWRÓT (i nowe nadzieje)
@@ -170,7 +170,7 @@ przemyślenia. O czymkolwiek.
 Praca kierowcy zawodowego często jest postrzegana przez pryzmat kilometrów, ale dla mnie stała się przestrzenią do rozwoju duchowego i intelektualnego. Samotność pozwoliła mi usłyszeć własne myśli, 
 których Pan Maciej i inni "eksperci" nie mogli już zagłuszyć.
 
-Po dwóch latach za kierownicą nagle ujrzałem zapotrzebowanie na aplikację, która miałaby mi mi pomóc zbierać dane w ujęciu miesięcznym sumująca pokonany dystans wraz z odbytymi delegacjami. Delegacje to czas, w którym śpię w kabinie
+Po dwóch latach za kierownicą nagle ujrzałem zapotrzebowanie na aplikację, która miałaby mi pomóc zbierać dane w ujęciu miesięcznym sumującą pokonany dystans wraz z odbytymi delegacjami. Delegacje to czas, w którym śpię w kabinie
 będąc daleko od domu. Te obie wartości mają istotny wpływ na otrzymywane przeze mnie wynagrodzenie. I pomimo że zalecaną technologią tworzenia aplikacji na telefon z androidem jest Kotlin lub Java, to mając doświadczenie z Pythonem 
 właśnie w nim zacząłem pisać moją aplikację. Nazwałem ją Mileage. Po wstępnym researchu okazało się że sam Python nie wystarczy. Pomocne okazało się Kivy. W ten oto sposób po około dwóch miesiącach powstało moje nowe dzieło.
 Pisanie trochę zajęło, gdyż ciężko czasem znaleźć chwilę na pisanie będąc w trasie. A jeżdżę dużo. Ale nowopowstałe zacięcie nie pozwoliło mi się poddać. I powróciły chęci programowania.
@@ -190,7 +190,7 @@ I na tamtą chwilę zakończyłem pracę nad obecnym projektem nie widząc dla n
 
 Noesis [link]
 
-Po czterech misiącach, podczas których stosując się do zasady którą poznałem podczas pisania Mistrza Ortografii próbowałem zmienić zasady samego projektu wracając kilka kroków wstecz. Tak powstał COVER, którego nazwa jest skrótem ze słów 
+Po czterech miesiącach, podczas których stosując się do zasady którą poznałem podczas pisania Mistrza Ortografii próbowałem zmienić zasady samego projektu wracając kilka kroków wstecz. Tak powstał COVER, którego nazwa jest skrótem ze słów 
 "Color Otp VERification". Tym razem starałem się podejść do tematu inaczej zmieniając logikę wyboru wyzwalającego koloru oraz rezygnując z enigmatycznych zagadek. I powstała kompletna łamigłówka, która mogłaby posłużyć jako szablon dla
 wielu różnych jej odbiorców. Moja logika jest tylko przykładem, a cała aplikacja staje się pełnym systemem generowania haseł jednorazowych nigdzie nie zapisywanych, których rozwiązanie jest znane tylko dla osób znających regułę jego 
 odszukania. To całkowicie eliminuje potrzebę pamiętania hasła. I co być może być nowym punktem odniesienia w świecie 'haseł'.
@@ -200,7 +200,7 @@ COVER [link]
 ## EPILOG
 
 Aby odnaleźć siebie chociaż w tej części, w moim przypadku musiało minąć dużo czasu. Nie wiem tak naprawdę skąd brała się we mnie ta iskierka, która pchała mnie w kierunku programowania pomimmo problemów zapoczątkowanych pod koniec poprzedniego
-stulecia jeszcze w Turbo Pascalu. I pomimo dwóch poważnych kryzysów, w których walidacja zawnętrzna, nie ważne przypadkowa czy wyproszona okazały się posiadać czynnik niszczący moje marzenie - za każdym razem wstałem. Tak jak na początku gdy 
+stulecia jeszcze w Turbo Pascalu. I pomimo dwóch poważnych kryzysów, w których walidacja zewnętrzna, nie ważne przypadkowa czy wyproszona okazały się posiadać czynnik niszczący moje marzenie - za każdym razem wstałem. Tak jak na początku gdy 
 myślałem że nie dam rady, a mimo wszystko podejmowałem kolejne próby. 
 
 Od samego początku to nie było tylko kodowanie, ponieważ od pierwszego pomysłu projektuję rozwiązania i nie potrzebuję wykładowcy żeby wiedzieć, że coś "nie gra" w GUI. Sam wykrywam błędy i szukam optymalizacji. I pomimo, że czasem kod
@@ -215,7 +215,7 @@ super niezawodnym narzędziem. Niewiele później gdy LLM wprowadził mnie w bł
 Pierwszy błąd generował drugi, drugi trzeci, trzeci czwarty a czwarty znowu pierwszy. Była to sytuacja bez wyjścia i powstała tylko dlatego, że uznałem to co LLM sugerował za prawdziwe. I wtedy wziąłem dokumentację na warsztat i znalazłem błąd, 
 po którym aplikacja poprawnie się skompilowała do pliku apk.
 
-Wtedy zrozumiałem że pisząc moje projekciki w latach 2016-18 już wtedy byłem programistą. A mi się ciągle wydawało że droga przede mną jeszcze długa i kręta. Że muszę nauczyć się połowy internetu żeby móc świadomie poiedzieć, że już coś tam 
+Wtedy zrozumiałem że pisząc moje projekciki w latach 2016-18 już wtedy byłem programistą. A mi się ciągle wydawało że droga przede mną jeszcze długa i kręta. Że muszę nauczyć się połowy internetu żeby móc świadomie powiedzieć, że już coś tam 
 umiem. Jednak prawda - przynajmniej tak teraz odbieram ten stan - okazała się być o wiele prostsza. Po tych przemyśleniach powstał mój manifest, który zamieściłem na githubie, i wtedy także uznałem że pokażę światu siebie i z historią i z pomysłami. 
 Że być może ktoś kto przeczyta ten tekst uzna, że skoro mi się udało pomimo niemal trzydziestoletniej podróży, to i jej bądź jemu się uda. W czymkolwiek. Nie tylko w programowaniu. I tak właśnie powstał pomysł spisania odysei.
 
