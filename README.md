@@ -208,7 +208,7 @@ stulecia jeszcze w Turbo Pascalu. I pomimo dwóch poważnych kryzysów, w który
 myślałem że nie dam rady, a mimo wszystko podejmowałem kolejne próby. 
 
 Od samego początku to nie było tylko kodowanie, ponieważ od pierwszego pomysłu projektuję rozwiązania i nie potrzebuję wykładowcy żeby wiedzieć, że coś "nie gra" w GUI. Sam wykrywam błędy i szukam optymalizacji. I pomimo, że czasem kod
-nie wygląda profesjonalnie, robi to co miał według założeń robić. Wymyślając sobie wyzwania nauczyłem się jak czytać błędy, a sporo ich przerobiłem. Uczyłem się w erze bez AI, wtedy było tylko Google, masa czytania, masa prób i błędów. 
+nie wygląda profesjonalnie, robi to co miał według założeń robić. Wymyślając sobie wyzwania nauczyłem się jak czytać błędy, a sporo ich przerobiłem. Uczyłem się w erze bez AI, wtedy było tylko Google, masa czytania, masa prób i masa błędów. 
 I co ciekawe świadomie pisałem wszystko z palca w Pythonowym IDLE albo w Linuxowym VIM-ie - bez żadnych autocompletion czy kolorowania składni, jakbym mentalnie był zawieszony w końcowych latach poprzedniego stulecia, gdzie tych wspomagaczy 
 po prostu nie było. Wtedy gdy narodziło się moje marzenie pisania programów komputerowych.
 
@@ -216,12 +216,12 @@ W tej ewolucji pomogła mi moja obecna praca, czyli praca kierowcy zawodowego. P
 cisza mnie męczyła, ale później ta sama cisza i mój wewnętrzny poszukiwacz pchnęły mnie w kierunku, który uważam za poważny rozwój duchowy. W międzyczasie napisałem aplikację Mileage, która miała pomóc tylko mi. Pisząc ją miałem moje 
 pierwsze kontakty z LLM. Początkowo tylko z jednym, ale gdy sprowadził mnie na manowce i gdy ujrzałem jego słabość do robienia błędów i halucynowania gdy nie zna odpowiedzi zmieniłem zdanie, które media wtłaczają ludziom jakoby AI było takim 
 super niezawodnym narzędziem. Niewiele później gdy LLM wprowadził mnie w błąd podczas pracy z buildozerem, chwilę trwało zanim dostrzegłem ponawiający się algorytm podpowiedzi, który prowadził w błędne koło. 
-Pierwszy błąd generował drugi, drugi trzeci, trzeci czwarty a czwarty znowu pierwszy. Była to sytuacja bez wyjścia i powstała tylko dlatego, że uznałem to co LLM sugerował za prawdziwe. I wtedy wziąłem dokumentację na warsztat i znalazłem błąd, 
-po którym aplikacja poprawnie się skompilowała do pliku apk.
+Pierwszy błąd generował drugi, drugi trzeci, trzeci czwarty a czwarty znowu pierwszy. Była to sytuacja bez wyjścia i powstała tylko dlatego, że uznałem to co LLM sugerował za prawdziwe. Wtedy wziąłem dokumentację na warsztat, znalazłem błąd, 
+po którym aplikacja poprawnie się skompilowała do pliku apk. W efekcie czego aplikacja trafiła na mój telefon i działa stale do dnia dzisiejszego. 
 
 Wtedy zrozumiałem że pisząc moje projekciki w latach 2016-18 już wtedy byłem programistą. A mi się ciągle wydawało że droga przede mną jeszcze długa i kręta. Że muszę nauczyć się połowy internetu żeby móc świadomie powiedzieć, że już coś tam 
 umiem. Jednak prawda - przynajmniej tak teraz odbieram ten stan - okazała się być o wiele prostsza. Po tych przemyśleniach powstał mój manifest, który zamieściłem na githubie, i wtedy także uznałem że pokażę światu siebie i z historią i z pomysłami. 
-Że być może ktoś kto przeczyta ten tekst uzna, że skoro mi się udało pomimo niemal trzydziestoletniej podróży, to i jej bądź jemu się uda. W czymkolwiek. Nie tylko w programowaniu. I tak właśnie powstał pomysł spisania odysei.
+Że być może ktoś kto przeczyta ten tekst uzna, że skoro mi się udało pomimo niemal trzydziestoletniej podróży, to i jej bądź jemu się uda. W czymkolwiek. Nie tylko w programowaniu.
 
 [Manifest Twórcy Niezależnego](https://github.com/CodeTruckerDev/CodeTruckerDev/blob/main/MANIFEST.md)
 
