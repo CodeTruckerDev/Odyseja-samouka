@@ -232,6 +232,8 @@ dyplomu, bo ma dowód w postaci działającego kodu.
 
 To jest właśnie to co zrozumiałem. **zostałem programistą na własnych zasadach**, i jak to ująłem w manifeście - użytkownikiem rzeczywistości rozszerzonej, czyli nie opierającej się na zasadach jakie ten świat wytworzył, aby oceniać profesjonalizm.
 
+I najważniejsza nauka, jaką wyciągnąłem z tych wszystkich lat to nie poddawać się tak łatwo. Wciąż jednak walczę ze swoją niską samooceną, pomimo wiedzy jaką zdobyłem.
+
 ---
 
 Odrzucam system walidacji, ponieważ mam działający kod. To jest mój dowód. Reszta to iluzja.
