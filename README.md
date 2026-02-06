@@ -198,8 +198,8 @@ Noesis [link]
 
 Po czterech miesiącach, podczas których stosując się do zasady którą poznałem podczas pisania Mistrza Ortografii próbowałem zmienić zasady samego projektu wracając kilka kroków wstecz. Tak powstał COVER, którego nazwa jest skrótem ze słów 
 "Color Otp VERification". Tym razem starałem się podejść do tematu inaczej zmieniając logikę wyboru wyzwalającego koloru oraz rezygnując z enigmatycznych zagadek. I powstała kompletna łamigłówka, która mogłaby posłużyć jako szablon dla
-wielu różnych jej odbiorców. Moja logika jest tylko przykładem, a cała aplikacja staje się pełnym systemem generowania haseł jednorazowych nigdzie nie zapisywanych, których rozwiązanie jest znane tylko dla osób znających regułę jego 
-odszukania. To całkowicie eliminuje potrzebę pamiętania hasła. I co być może być nowym punktem odniesienia w świecie 'haseł'.
+wielu różnych jej odbiorców. Zastosowana przeze mnie logika jest tylko przykładem, a cała aplikacja staje się pełnym systemem generowania nigdzie nie zapisywanych haseł jednorazowych, których rozwiązanie jest znane tylko dla osób znających regułę jego 
+odszukania. To całkowicie eliminuje potrzebę pamiętania hasła. I co być może być nowym punktem odniesienia w świecie haseł.
 
 COVER [link]
 
