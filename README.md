@@ -51,8 +51,6 @@ pliku exe i trafił do autostartu Windowsa. Jako że skrypt był napisany jako n
 Wystarczyłoby wiedzieć gdzie dokładnie na monitorze wyświetla się X zamykający okno CMD i cała aplikacja przestałaby działać zanim by jeszcze zdążyła się uruchomić. Tu na pomoc przyszło oczywiście 
 Google a rozwiązaniem okazał się skrypt VBS ukrywający okno aplikacji. 
 
-Guardian 1.0 [link]
-
 W ten oto sposób stałem się wrogiem publicznym numer jeden mojego syna, który nie ustępował w wysiłkach jak obejść moją aplikację. Sam próbował, próbowali jego koledzy, starsi bracia jego kolegów
 oraz koledzy starszych braci. Nikt nie potrafił się z Guardianem uporać. Byłem zadowolony nie zdając sobie sprawy, jak szybko odkryję najsłabsze ogniwo mojej aplikacji. 
 Po kilku tygodniach 'życia' aplikacji zaobserwowałem zestaw zachowań u młodzieńca. Otóż znikał na pół godziny w swoim pokoju, po czym wychodził na dwór na kilkanaście minut, i wracał do pokoju.
@@ -69,7 +67,7 @@ procesora i karty graficznej zworkami na płycie głównej. W ten oto sposób sp
 dla overlockera, a gdy już się udało go zdobyć, niedługo po tym rozpoczęła się pandemia covid19 i było lepiej żeby młody siedział w domu i grał bez ograniczeń. W ten oto sposób moja aplikacja
 umarła śmiercią naturalną, gdyż nie było już dla niej zastosowania.
 
-Guardian 2.0 [link]
+[Guardian](https://github.com/CodeTruckerDev/Guardian)
 
 ## ROZDZIAŁ 2 - EKSPLOZJA KREATYWNOŚCI
 
@@ -80,32 +78,42 @@ poprowadziło drogą pomijającą pewne zagadnienia. Ale ciągle odczuwając że
 Ale nawet zwykłe zagadnienia 
 potrafiłem ubrać w ciekawe i zabawne skrypty. Przykładem jest poniższy kod.
 
-Three [link]
+[Three](https://github.com/CodeTruckerDev/Three)
+
+---
 
 Moja świętej pamięci mama była księgową, a ja sporo jej w tym pomagałem. Wszędzie tam, gdzie trzeba było się podpisać widniał jej podpis a do mnie należało sprawne działanie komputera i oprogramowania
 wraz z jego obsługą. Wiele razy widziałem sytuacje, gdzie z wartości z paragonu bądź faktury mama wyliczała wartość podatku VAT. Zawsze ręcznie. I tu ujrzałem możliwość pomocy. Napisałem jej
 malutkie narzędzie do wyliczania wartości podatku z podanej przez użytkownika wartości brutto dokumentu finansowego. I mama była zadowolona. Niestety pokonał ją covid, a narzędzie trafiło do szuflady,
 jako już nikomu nie potrzebne.
 
-Obliczacz-VAT [link]
+[Obliczacz-VAT](https://github.com/CodeTruckerDev/Obliczacz-VAT)
+
+---
 
 Kontynuując naukę poprzez forum, które stało się moim swoistym cyfrowym domem, zbierałem punkty reputacji, które wtedy miały dla mnie znaczenie, bo utwierdzały mnie w przekonaniu, że robię dobrą robotę.
 W tak zwanym międzyczasie rozwijając skile podstawowej biblioteki Pythona zostałem poproszony o napisanie, a właściwie o propozycję napisania aplikacji do sprawdzania numeru PESEL. Kod miał być częścią
 większego systemu. A ja tak sobie wziąłem do serca to zlecenie, że wykorzystując biblioteki tkinter napisałem samodzielny tester numeru PESEL.
 
-PESEL-tester [link]
+[PESEL-tester](https://github.com/CodeTruckerDev/PESEL-tester)
+
+---
 
 Innym razem ujrzałem możliwość pomocy mojej teściowej, która będąc zapaloną graczką gier Lotto co kilka dni wieczorem sprawdzała wylosowane numery korzystając z telegazety w telewizorze. Do tej pory gra
 stałymi numerami. I wtedy pomyślałem nad narzędziem, które samo pobrałoby numery losowania ze strony lotto i sprawdzenie, czy stałe, nazwane przeze mnie złotymi liczbami strzały były trafione w danym
 losowaniu. Całość została ubrana w proste okienko stworzone oczywiście w tkinter, który w tamtym momencie był celem. Określiłem swój cel na tworzenie aplikacji okienkowych.
 
-Multi-Multi-złote-liczby [link]
+[Multi-Multi-złote-liczby](https://github.com/CodeTruckerDev/Multi-Multi-z-ote-liczby)
+
+---
 
 Ucząc się zaczynałem miewać pomysły, jakoby zawodowe programowanie mogłby być moim celem. I na potrzeby zaprezentowania siebie stworzyłem swoją wizytówkę. I tak jak w poprzednich przypadkach padło na
 tkinter. Aplikacja korzysta z tajemnych mocy, aby znaleźć odpowiedniego kandydata. I pomimo, że aplikacja powstała w wersji finalnej jako plik wykonywalny exe, nigdy jej nikomu nie pokazałem.
 Toczyłem wewnętrzną walkę o wiarę we własne siły oraz projekty i niestety brak wiary w siebie wygrał, zresztą jak zazwyczaj. Tak czy inaczej poniżej można zobaczyć, jak wyglądała moja wizytówka.
 
-Super-secret-searcher [link]
+[Super-secret-searcher](https://github.com/CodeTruckerDev/Super-secret-searcher)
+
+---
 
 Gdy tworzyłem Guardiana, miałem pomysły żeby była możliwość odblokowania Windowsa własnym hasłem, czyli żeby system przez kilka minut po osiągnięciu maksymalnego czasu korzystania z komputera wyświetlał okienko 
 z możłiwością wpisania hasła, które pozwalałoby na dalsze korzystanie z komputera. Finalnie nie zastosowałem tego rodzaju rozwiązań, jednak ten sposób zabezpieczania aplikacji stał się trzonem
@@ -113,7 +121,9 @@ mojego procesu nauki oraz rozważań teoretycznych i praktycznych. Zastanawiałe
 zagadkę i wpisać prawidłowe hasło. I przy tym projekcie realizowałem także naukę importów zewnętrznych modułów. Stworzyłem więc aplikację, w której w górnej części okienka (ofc tkinter) wyświetlał się napis
 "You won't find my magic code" i należo zwrócić uwagę na słowo 'magic', które było trzeba wpisać w specyficzny sposób. Zachęcam do sprawdzenia. Miłej zabawy :)
 
-Magic [link]
+[Magic](https://github.com/CodeTruckerDev/Magic)
+
+---
 
 Wspomniałem wcześniej o powstałej miłości do Linuxów. Od wielu lat używam ich w codziennej pracy na komputerze. Przetestowałem kilka dystrybucji i chyba idąc standardową ścieżka dla zapaleńców, najpierw
 korzystałem z Ubuntu. Dosyć krótko, bo denerwowała mnie ilość niepotrzebnego oprogramowania dostarczanego wraz z systemem operacyjnym. Ale nie tylko to sprawiło, że zacząłem szukać wyzwań. Wraz z samą obsługą
@@ -130,7 +140,9 @@ A dokładniej kolor znaku drogowego, oznaczającego stop - czyli koloru czerwone
 zachęcam do samodzielnego wypróbowania. Windows 11 posiada już wbudowaną obsługę kolorów ANSII wykorzystaną w tym projekcie, więc nie trzeba już zaglądać do Linuxowego terminala, który mimo wszystko odstrasza
 większość użytkowników. Projekt nazwałem roboczo "Project X" i tak już zostało. Ale projekt ten stał się zalążkiem tego, co stworzyłem 8 lat później.
 
-Project-X [link]
+[Project-X](https://github.com/CodeTruckerDev/Project-X)
+
+---
 
 Ciągle się ucząc nowych rzeczy, odwiedziłem pewną stronę której temat przewodni w tamtym czasie spowodował, że się zatrzymałem i zacząłem się zastanawiać nad moim procesem nauki. Była tam informacja o rozpoczynającym 
 się niebawem konkursie programistycznym. Oczywiście z nagrodami. Na podjęcie ewentualnej decyzji miałem nie więcej niż dwie godziny. I stwierdziłem, że chcę zobaczyć, jak taki konkurs wygląda od środka. Zgłosiłem się 
@@ -157,7 +169,9 @@ Przypomniała mi się pewna sytuacja gdy dotarłem na meetup PyWaw. Otóż jak d
 I na wejściu stali ludzie kontrolujący wchodzących, bo tylko zarejestrowane osoby mogły wejść. Więc przechodząc weryfikację dostałem taki zalaminowany bon, który uprawniał mnie do darmowego picia. Nie wykorzystałem go i zabrałem do 
 domu. Ale obecnie już go nie mam. Laminat się popsuł i zawartość wypadła, więc to w końcu wyrzuciłem. Ale dość długo ten token był moim talizmanem dającym +10 do pewności siebie :)
 
-Mistrz-ortografii [link]
+[Mistrz-ortografii](https://github.com/CodeTruckerDev/Mistrz-ortografii)
+
+---
 
 Wszystkie powyższe aplikacje z tego rozdziału były dziełem roku 2017. I mając kontakt z Panem Maciejem co kilka tygodni wymienialiśmy informacje, za pomocą których trafiłem także jako wpis na jego bloga. 
 
