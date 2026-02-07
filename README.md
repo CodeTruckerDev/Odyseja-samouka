@@ -259,3 +259,7 @@ Moim sukcesem jako programista nie jest praca w korpo. Mój Guardian powstrzyma�
 Jestem programistą bo rozwiązuję problemy kodem.
 
 Jestem i kierowcą, i programistą, i autorem (mam nadzieję, że to co napisałem powyżej dało się łatwo przeczytać ;) ).
+
+---
+
+Strona główna profilu [CodeTruckerDev](https://github.com/CodeTruckerDev)
