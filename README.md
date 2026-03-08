@@ -195,7 +195,7 @@ będąc daleko od domu. Te obie wartości mają istotny wpływ na otrzymywane pr
 właśnie w nim zacząłem pisać moją aplikację. Nazwałem ją Mileage. Po wstępnym researchu okazało się że sam Python nie wystarczy. Pomocne okazało się Kivy. W ten oto sposób po około dwóch miesiącach powstało moje nowe dzieło.
 Pisanie trochę zajęło, gdyż ciężko czasem znaleźć chwilę na pisanie będąc w trasie. A jeżdżę dużo. Ale nowopowstałe zacięcie nie pozwoliło mi się poddać. I powróciły chęci programowania.
 
-Mileage [link]
+[Mileage](https://github.com/CodeTruckerDev/mileage)
 
 Podczas moich eksploracji jednego z wcześniejszych projektów, a konkretniej mówiąc Project X - zacząłem się zastanawiać nad innym rozwiązaniem wyzwalacza koloru. W Project X wyzwalający kolor był na sztywno ustawiony i był nim kolor
 czerwony. Ale pomyślałem nad tym, aby kolor był generowany losowo. Miejsce jego wystąpienia w ciągu kolorów było stałe za każdym razem, jednak utworzyłem enigmatycznie napisane podpowiedzi czyniąc proces odgadnięcia końcowego
@@ -208,7 +208,7 @@ No i właściwie na moje własne życzenie rozstrzelał mnie całkowicie niszcz�
 założeniem było nie szukanie walidacji moich pomysłów. Prawdopodobnie jako efekt wszystkich negatywnych doświadczeń z przeszłości miałem (i chyba nadal trochę mam) dziwną cechę potrzeby walidacji tego co tworzę. Walczę po dziś dzień z tym demonem.
 I na tamtą chwilę zakończyłem pracę nad obecnym projektem nie widząc dla niego przestrzeni.
 
-Noesis [link]
+[NOESIS](https://github.com/CodeTruckerDev/Noesis)
 
 Po czterech miesiącach, podczas których stosując się do zasady którą poznałem podczas pisania Mistrza Ortografii próbowałem zmienić zasady samego projektu wracając kilka kroków wstecz. Tak powstał COVER, którego nazwa jest skrótem ze słów 
 "Color Otp VERification". Tym razem starałem się podejść do tematu inaczej zmieniając logikę wyboru wyzwalającego koloru oraz rezygnując z enigmatycznych zagadek. I powstała kompletna łamigłówka, która mogłaby posłużyć jako szablon dla
