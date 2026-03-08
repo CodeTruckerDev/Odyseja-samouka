@@ -217,6 +217,8 @@ odszukania. To całkowicie eliminuje potrzebę pamiętania hasła. I co być mo�
 
 COVER [link]
 
+---
+
 ## EPILOG
 
 Aby odnaleźć siebie chociaż w tej części, w moim przypadku musiało minąć dużo czasu. Nie wiem tak naprawdę skąd brała się we mnie ta iskierka, która pchała mnie w kierunku programowania pomimmo problemów zapoczątkowanych pod koniec poprzedniego
@@ -259,6 +261,24 @@ Moim sukcesem jako programista nie jest praca w korpo. Mój Guardian powstrzyma�
 Jestem programistą bo rozwiązuję problemy kodem.
 
 Jestem i kierowcą, i programistą, i autorem (mam nadzieję, że to co napisałem powyżej dało się łatwo przeczytać ;) ).
+
+---
+
+## Post Scriptum
+
+Po wielu latach pracy z kodem realizującym moje własne idee, doszedłem do wniosku że to nie walidacja była moim największym problemem. Była nim cecha, która dla wielu osób może być postrzegana jako zaleta. Ale także dla wielu jej posiadaczy jest niczym
+brzemię. Z jednej strony nakręca do robienia rzeczy lepiej, ale z drugiej nigdy nie daje zadowolenia z ich jakości. Perfekcjonizm, bo o nim mowa - twarzyszy mi odkąd pamiętam. I nie ważne co robiłem, zzazwyczaj nie byłem zadowolony z efektów sądząc że 
+dało się to zrobić lepiej. W ten oto sposób ucząc się programowania podniosłem poprzeczkę zbyt wysoko - do nierealnego wręcz poziomu, gdzie piszę idealny kod pozbawiony błędów, od razu przewiduję idealną architekturę oraz przewiduję wszelkie przypadki.
+I pomimo że moje aplikacje działały, ja widziałem w nich tylko niedoróbki. To była główna przyczyna, dlaczego wszytsko co tworzyłem trafiało do szuflady. Wstydziłem się uważając że każdy projekt nie jest idealny, więc nie jest warty pokazania.
+
+Czułem, że siła która napędzała jakość moich działań, była jednocześnie kulą u nogi. Więc zacząłem kolejną ze swoich walk. Wyznaczyłem sobie limit, który zawsze był taki sam. Pisząc kod zawsze staram się, aby ten twór był najlepszą możliwie wersją
+na dany moment. I wtedy projekt zamykam. Oczywiście znajduję kolejne miejsca, gdzie można by coś poprawić, czy to metodę, czasem kolory aplikacji, może nowy układ wyglądu. Jest to dla mnie wyzwanie, nie poprawiać takich niedoróbek - ale one zawsze
+trwały w nieskończoność. I przez to zachowanie nie widziałem wartości w aplikacjach, które wychodziły spod mooich palców. A jakby nie patrzeć projektowałem aplikacje, tworzyłem sprawny i działający kod, który budowałem i dbałem o sprawne uruchomienie. 
+A to zdaje się jest dokładnie tym, czym zajmują się zawodowi programiści. Ja nie widziałem wartości swoich pomysłów, bo nie mialem zewnętrznego punku odniesienia, że samodzielnie robię to, co w realnym świecie całe zespoły. 
+
+Bardzo długo towarzyszyło mi przekonanie, że głównym problemem był brak mentora, brak zespołu czy brak prawdziwego doświadczenia. A blokada leżała gdzieś indziej. Perfekcjonizm działał tu jak cichy sabotażysta, ponieważ podnosił standard tak wysoko, 
+że nic nie wydawało się wystarczająco dobre każąc skupiać się na brakach zamiast na tym, co już działa. A to powoduje unikanie konfrontacji z innymi (czyli właśnie walidacji). I wtedy powstał paradoks: jako samouk potrafiłem już rozwiązywać realne 
+problemy programistyczne, wciąż się nie uważając za programistę. Tak więc to nie brak wiedzy mnie ograniczał, tylko sposób w jaki siebie oceniałem.
 
 ---
 
