@@ -286,3 +286,7 @@ Kończę tę odyseję spostrzeżeniem, że tak naprawdę nie była to historia o
 ---
 
 Strona główna profilu [CodeTruckerDev](https://github.com/CodeTruckerDev)
+
+---
+
+Tekst udostępniony na licencji CC BY 4.0 – możesz cytować, tłumaczyć i udostępniać, wystarczy podać autora i link do oryginału.
