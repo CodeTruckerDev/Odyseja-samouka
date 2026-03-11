@@ -285,6 +285,17 @@ Kończę tę odyseję spostrzeżeniem, że tak naprawdę nie była to historia o
 
 ---
 
+## Nota od autora
+Data: [11 marca 2026]
+
+Czytając ten tekst ponownie widzę miejsca, które mógłbym poprawić. 
+
+Pierwszą myślą po jego ukończeniu była chęć naniesienia dziesiątek korekt, wygładzenia stylu i „doszlifowania” przekazu. Jednak trwając w moim najnowszym odkryciu, o którym wspominam wyżej — zostawiam go w tej postaci. 
+
+To jest najlepsza możliwa wersja na dzień publikacji. Nie idealna. Ale skończona.
+
+---
+
 Strona główna profilu [CodeTruckerDev](https://github.com/CodeTruckerDev)
 
 ---
